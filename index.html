@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Eric's Project Hub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>👋 Hi, I'm Eric</h1>
+    <p>⚙️ Project hub!</p>
+  </header>
+  <main>
+    <div class="project">
+      <h2>🪄 Micro Publish</h2>
+      <p>
+        A plugin for posting notes from Obsidian to Micro.blog.<br>
+        Modified the original that was only for text so it now is able to publish images with smart alt-text.<br>
+        Originally forked from 
+        <a href="https://github.com/otaviocc/obsidian-microblog" target="_blank">otaviocc/obsidian-microblog</a>.
+      </p>
+      <a href="https://github.com/ericmwalk/obsidian-microblog" target="_blank">View on GitHub →</a>
+    </div>
+
+    <div class="project">
+      <h2>⏳ Cruise Countdown</h2>
+      <p>A themed countdown timer with rotating daily quips for an upcoming family cruise adventure.</p>
+      <a href="https://gottfamily.fun" target="_blank">Visit Site →</a>
+    </div>
+
+    <div class="project">
+      <h2>📚 Lantern</h2>
+      <p>
+        A search tool using the Google Books API to find books, fetch metadata, and format reviews for Micro.blog.<br>
+        Adapted from 
+        <a href="https://github.com/rknightuk/lantern" target="_blank">rknightuk/lantern</a>.
+      </p>
+      <a href="https://lantern.brebs.net" target="_blank">Visit Site →</a><br>
+      <a href="https://github.com/ericmwalk/lantern" target="_blank">View on GitHub →</a>
+    </div>
+  </main>
+  <footer>
+    © <span id="year"></span> Eric Walker — 
+    <a href="https://github.com/ericmwalk" style="color:#5dcef3">GitHub Profile</a>
+  </footer>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
