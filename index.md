@@ -7,7 +7,6 @@ title: Projects
 # 👋 Hi, I'm Eric  
 ⚙️ Project hub!
 
----
 <div class="project">
 
 ## 🪄 Micro Publish
@@ -19,7 +18,6 @@ Originally forked from [otaviocc/obsidian-microblog](https://github.com/otaviocc
 👉 [View on GitHub](https://github.com/ericmwalk/obsidian-microblog)
 
 </div>
----
 
 <div class="project">
 
@@ -30,7 +28,6 @@ A themed countdown timer with rotating daily quips for an upcoming family cruise
 👉 [Visit Site](https://gottfamily.fun)
 
 </div>
----
 
 <div class="project">
 
@@ -43,6 +40,7 @@ Adapted from [rknightuk/lantern](https://github.com/rknightuk/lantern).
 👉 [View on GitHub](https://github.com/ericmwalk/lantern)
 
 </div>
+
 ---
 
 © [Eric Walker](https://github.com/ericmwalk)
