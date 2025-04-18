@@ -30,6 +30,12 @@ a {
   text-decoration: none;
 }
 
+hr {
+  border: none;
+  border-top: 1px solid #444;
+  margin: 2rem 0;
+}
+
 footer {
   margin-top: auto;
   padding: 1rem;
@@ -37,30 +43,4 @@ footer {
   font-size: 0.9rem;
   background-color: #292942;
   width: 100%;
-}
-
-hr {
-  border: none;
-  border-top: 1px solid #444;
-  margin: 2rem 0;
-}
-
-/* ✅ Project "cards" */
-.project {
-  margin-bottom: 2rem;
-  padding: 1rem;
-  background-color: #33334d;
-  border-left: 4px solid #5dcef3;
-  border-radius: 6px;
-}
-
-.project h2 {
-  margin-top: 0;
-  font-size: 1.5rem;
-}
-
-.project a {
-  display: inline-block;
-  margin-top: 0.5rem;
-  color: #5dcef3;
 }
