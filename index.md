@@ -2,6 +2,8 @@
 title: Projects
 ---
 
+<link rel="stylesheet" href="style.css">
+
 # 👋 Hi, I'm Eric  
 ⚙️ Project hub!
 
