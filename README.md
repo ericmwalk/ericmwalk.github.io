@@ -6,4 +6,4 @@ This is a GitHub Pages site to showcase a few projects:
 - **Cruise Countdown** – A themed countdown with daily quips
 - **Lantern** – A book search and review formatter for Micro.blog
 
-👉 Live site will appear at: `https://<your-username>.github.io/<repo-name>/`
+👉 Live site is at : `https://ericmwalk.github.io/
